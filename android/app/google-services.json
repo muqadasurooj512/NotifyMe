@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84275526567",
+    "project_id": "notifyme-96710",
+    "storage_bucket": "notifyme-96710.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84275526567:android:34ecfc189ab07704105482",
+        "android_client_info": {
+          "package_name": "com.notifyme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLw0wm8KGJHNp_QlLqt3H11SMDISMc484"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
